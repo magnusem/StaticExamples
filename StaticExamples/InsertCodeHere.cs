@@ -11,6 +11,7 @@ namespace StaticExamples
 
             List<int> aList = new List<int> {23, 86, 51, 11, 39};
 
+
             int smallest = ListMethods.FindSmallestNumber(aList);
             Console.WriteLine("Smallest number in the list is: {0}", smallest);
 
